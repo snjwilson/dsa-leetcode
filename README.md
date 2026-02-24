@@ -4,9 +4,20 @@ A collection of Data Structures and Algorithms solutions organized by category.
 
 ## Table of Contents
 
+- [1-D DP](#1-d-dp)
 - [Backtracking](#backtracking)
 
 ---
+
+## 1-D DP
+
+### 70. Climbing Stairs
+
+**Problem**: 
+
+**Solutions**
+- [Go Implementation](1-d%20dp/70.%20Climbing%20Stairs/solution.go)
+- [Java Implementation](1-d%20dp/70.%20Climbing%20Stairs/Solution.java)
 
 ## Backtracking
 
@@ -27,3 +38,6 @@ A collection of Data Structures and Algorithms solutions organized by category.
 - [Go Implementation](backtracking/46.%20Permutations/Solution.go)
 
 ---
+
+
+[def]: 1
