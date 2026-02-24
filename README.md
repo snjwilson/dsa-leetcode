@@ -13,11 +13,18 @@ A collection of Data Structures and Algorithms solutions organized by category.
 
 ### 70. Climbing Stairs
 
-**Problem**: 
+**Problem**: https://leetcode.com/problems/climbing-stairs/
 
 **Solutions**
 - [Go Implementation](1-d%20dp/70.%20Climbing%20Stairs/solution.go)
 - [Java Implementation](1-d%20dp/70.%20Climbing%20Stairs/Solution.java)
+
+### 198. House Robber
+
+**Problem**: https://leetcode.com/problems/house-robber/description/
+
+**Solutions**
+- [Go Implementation](1-d%20dp/198.%20House%20Robber/solution.go)
 
 ## Backtracking
 
