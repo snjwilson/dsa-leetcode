@@ -44,7 +44,19 @@ A collection of Data Structures and Algorithms solutions organized by category.
 **Solutions**:
 - [Go Implementation](backtracking/46.%20Permutations/Solution.go)
 
+## Top K Elements
+
+### 347. Top K Frequent Elements
+
+**Problem** https://leetcode.com/problems/top-k-frequent-elements/description/
+
+**Solutions**:
+- [Java Implementation](topK/347.%20Top%20K%20Frequent%20Elements)
+
 ---
 
 
+
+
 [def]: 1
+[def2]: to
