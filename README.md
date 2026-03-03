@@ -6,6 +6,8 @@ A collection of Data Structures and Algorithms solutions organized by category.
 
 - [1-D DP](#1-d-dp)
 - [Backtracking](#backtracking)
+- [Top K Elements](#top-k-elements)
+- [Depth First Search](#depth-first-search)
 
 ---
 
@@ -53,10 +55,20 @@ A collection of Data Structures and Algorithms solutions organized by category.
 **Solutions**:
 - [Java Implementation](topK/347.%20Top%20K%20Frequent%20Elements)
 
+## Depth First Search
+
+### 200. Number of Islands
+
+**Problem** https://leetcode.com/problems/number-of-islands/
+
+**Solutions**:
+- [Go Implementation](dfs/200.%20Number%20of%20Islands)
+
+### 130. Surrounded Regions
+
+**Problem** https://leetcode.com/problems/surrounded-regions/
+
+**Solutions**:
+- [Go Implementation](dfs/130.%20Surrounded%20Regions)
+
 ---
-
-
-
-
-[def]: 1
-[def2]: to
