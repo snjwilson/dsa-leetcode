@@ -53,7 +53,7 @@ A collection of Data Structures and Algorithms solutions organized by category.
 **Problem** https://leetcode.com/problems/top-k-frequent-elements/description/
 
 **Solutions**:
-- [Java Implementation](topK/347.%20Top%20K%20Frequent%20Elements)
+- [Java Implementation](topK/347.%20Top%20K%20Frequent%20Elements/Solution.java)
 
 ## Depth First Search
 
@@ -62,13 +62,20 @@ A collection of Data Structures and Algorithms solutions organized by category.
 **Problem** https://leetcode.com/problems/number-of-islands/
 
 **Solutions**:
-- [Go Implementation](dfs/200.%20Number%20of%20Islands)
+- [Go Implementation](dfs/200.%20Number%20of%20Islands/solution.go)
 
 ### 130. Surrounded Regions
 
 **Problem** https://leetcode.com/problems/surrounded-regions/
 
 **Solutions**:
-- [Go Implementation](dfs/130.%20Surrounded%20Regions)
+- [Go Implementation](dfs/130.%20Surrounded%20Regions/solution.go)
+
+### 785. Is Graph Bipartite
+
+**Problem** https://leetcode.com/problems/is-graph-bipartite/
+
+**Solutions**:
+- [Go implementation](dfs/785.%20Is%20Graph%20Bipartite/solution.go)
 
 ---
