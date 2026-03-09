@@ -29,6 +29,13 @@ A collection of Data Structures and Algorithms solutions organized by category.
 **Solutions**
 - [Go Implementation](1-d%20dp/198.%20House%20Robber/solution.go)
 
+### 213. House Robber II
+
+**Problem**: https://leetcode.com/problems/house-robber-ii/
+
+**Solutions**
+- [Java implementation](/1-d%20dp/213.%20House%20Robber%20II/Solution.java)
+
 ## Backtracking
 
 ### 22. Generate Parentheses
