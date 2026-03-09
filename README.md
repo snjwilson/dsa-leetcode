@@ -8,6 +8,7 @@ A collection of Data Structures and Algorithms solutions organized by category.
 - [Backtracking](#backtracking)
 - [Top K Elements](#top-k-elements)
 - [Depth First Search](#depth-first-search)
+- [Breadth First Search](#breadth-first-search)
 
 ---
 
@@ -77,5 +78,14 @@ A collection of Data Structures and Algorithms solutions organized by category.
 
 **Solutions**:
 - [Go implementation](dfs/785.%20Is%20Graph%20Bipartite/solution.go)
+
+## Breadth First Search
+
+### 542. 01 Matrix
+
+**Problem** https://leetcode.com/problems/01-matrix/
+
+**Solutions**
+- [Java implementation](bfs/542.%2001%20Matrix/Solution.java)
 
 ---
