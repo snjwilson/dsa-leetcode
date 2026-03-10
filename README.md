@@ -95,4 +95,13 @@ A collection of Data Structures and Algorithms solutions organized by category.
 **Solutions**
 - [Java implementation](bfs/542.%2001%20Matrix/Solution.java)
 
+## Intervals
+
+### 56. Merge Intervals
+
+**Problem** https://leetcode.com/problems/merge-intervals/
+
+**Solutions**
+- [Java implementation](/intervals/56.%20Merge%20Intervals/Solution.java)
+
 ---
