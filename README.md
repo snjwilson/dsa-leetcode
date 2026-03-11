@@ -9,6 +9,7 @@ A collection of Data Structures and Algorithms solutions organized by category.
 - [Top K Elements](#top-k-elements)
 - [Depth First Search](#depth-first-search)
 - [Breadth First Search](#breadth-first-search)
+- [Intervals](#intervals)
 
 ---
 
@@ -53,6 +54,13 @@ A collection of Data Structures and Algorithms solutions organized by category.
 
 **Solutions**:
 - [Go Implementation](backtracking/46.%20Permutations/Solution.go)
+
+### 78. Subsets
+
+**Problem** https://leetcode.com/problems/subsets/
+
+**Solutions**
+- [Go implementation](/backtracking/78.%20Subsets/solution.go)
 
 ## Top K Elements
 
